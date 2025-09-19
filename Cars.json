@@ -1,0 +1,162 @@
+[
+  {
+    "id": "CAR-001",
+    "name": "Tesla Model S",
+    "description": "Een luxe elektrische sedan met indrukwekkende acceleratie en groot rijbereik.",
+    "price": 89990,
+    "isAvailable": true,
+    "releaseDate": "2021-03-01",
+    "imageUrl": "tesla-model-s-1.jpeg",
+    "fuelType": "Electric",
+    "categories": ["Sedan", "Luxury", "EV"],
+    "specifications": {
+      "id": "SPEC-001",
+      "engine": "Dual Motor",
+      "horsepower": 1020
+    }
+  },
+  {
+    "id": "CAR-002",
+    "name": "BMW i4",
+    "description": "Een sportieve elektrische Gran Coupé die rijplezier en efficiëntie combineert.",
+    "price": 55900,
+    "isAvailable": true,
+    "releaseDate": "2022-05-15",
+    "imageUrl": "i4-1.jpeg",
+    "fuelType": "Electric",
+    "categories": ["Sedan", "Sport", "EV"],
+    "specifications": {
+      "id": "SPEC-002",
+      "engine": "Electric Motor",
+      "horsepower": 544
+    }
+  },
+  {
+    "id": "CAR-003",
+    "name": "Toyota Corolla",
+    "description": "Een betrouwbare en zuinige compacte wagen die wereldwijd bekendstaat.",
+    "price": 25000,
+    "isAvailable": true,
+    "releaseDate": "2020-09-10",
+    "imageUrl": "toyota-corolla-gr-sport-2.jpeg",
+    "fuelType": "Hybrid",
+    "categories": ["Compact", "Hybrid"],
+    "specifications": {
+      "id": "SPEC-003",
+      "engine": "1.8L Hybrid",
+      "horsepower": 122
+    }
+  },
+  {
+    "id": "CAR-004",
+    "name": "Ford Mustang Mach-E",
+    "description": "Een elektrische SUV met het iconische Mustang-design en moderne technologie.",
+    "price": 61900,
+    "isAvailable": false,
+    "releaseDate": "2021-11-20",
+    "imageUrl": "Mustang.jpeg",
+    "fuelType": "Electric",
+    "categories": ["SUV", "EV", "Performance"],
+    "specifications": {
+      "id": "SPEC-004",
+      "engine": "Dual Motor",
+      "horsepower": 487
+    }
+  },
+  {
+    "id": "CAR-005",
+    "name": "Audi A4",
+    "description": "Een elegante sedan met krachtige motoropties en hoogwaardig interieur.",
+    "price": 41900,
+    "isAvailable": true,
+    "releaseDate": "2019-07-25",
+    "imageUrl": "audi--a4.jpeg",
+    "fuelType": "Petrol",
+    "categories": ["Sedan", "Luxury"],
+    "specifications": {
+      "id": "SPEC-005",
+      "engine": "2.0L TFSI",
+      "horsepower": 190
+    }
+  },
+  {
+    "id": "CAR-006",
+    "name": "Tesla Model 3",
+    "description": "Een compacte elektrische sedan met modern design en geavanceerde technologie.",
+    "price": 42990,
+    "isAvailable": true,
+    "releaseDate": "2021-02-18",
+    "imageUrl": "tesla--model-3--2024.jpeg",
+    "fuelType": "Electric",
+    "categories": ["Sedan", "EV"],
+    "specifications": {
+      "id": "SPEC-006",
+      "engine": "Single/Dual Motor",
+      "horsepower": 480
+    }
+  },
+  {
+    "id": "CAR-007",
+    "name": "Toyota Camry",
+    "description": "Een ruime en comfortabele sedan met hybride aandrijving.",
+    "price": 31000,
+    "isAvailable": false,
+    "releaseDate": "2018-05-11",
+    "imageUrl": "toyota-camry.jpeg",
+    "fuelType": "Hybrid",
+    "categories": ["Sedan", "Family"],
+    "specifications": {
+      "id": "SPEC-007",
+      "engine": "2.5L Hybrid",
+      "horsepower": 218
+    }
+  },
+  {
+    "id": "CAR-008",
+    "name": "BMW X5",
+    "description": "Een luxe SUV met sterke prestaties en moderne rijhulpsystemen.",
+    "price": 65900,
+    "isAvailable": true,
+    "releaseDate": "2020-01-21",
+    "imageUrl": "X5.jpeg",
+    "fuelType": "Diesel",
+    "categories": ["SUV", "Luxury"],
+    "specifications": {
+      "id": "SPEC-008",
+      "engine": "3.0L Diesel",
+      "horsepower": 286
+    }
+  },
+  {
+    "id": "CAR-009",
+    "name": "Audi Q7",
+    "description": "Een ruime premium SUV die luxe en technologie combineert.",
+    "price": 72900,
+    "isAvailable": true,
+    "releaseDate": "2021-04-14",
+    "imageUrl": "2024-audi-q7.jpeg",
+    "fuelType": "Diesel",
+    "categories": ["SUV", "Luxury"],
+    "specifications": {
+      "id": "SPEC-009",
+      "engine": "3.0L TDI",
+      "horsepower": 286
+    }
+  },
+  {
+    "id": "CAR-010",
+    "name": "Ford F-150 Lightning",
+    "description": "De elektrische versie van Amerika’s populairste pick-up truck.",
+    "price": 39974,
+    "isAvailable": true,
+    "releaseDate": "2022-06-10",
+    "imageUrl": "ford-f-150_lightning.jpeg",
+    "fuelType": "Electric",
+    "categories": ["Pickup", "EV", "Utility"],
+    "specifications": {
+      "id": "SPEC-010",
+      "engine": "Dual Motor",
+      "horsepower": 563
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "SPEC-001",
+    "engine": "Dual Motor",
+    "horsepower": 1020,
+    "topSpeed": 322,
+    "acceleration": "2.1s 0-100 km/u",
+    "weightKg": 2162
+  },
+  {
+    "id": "SPEC-002",
+    "engine": "Electric Motor",
+    "horsepower": 544,
+    "topSpeed": 225,
+    "acceleration": "3.9s 0-100 km/u",
+    "weightKg": 2290
+  },
+  {
+    "id": "SPEC-003",
+    "engine": "1.8L Hybrid",
+    "horsepower": 122,
+    "topSpeed": 180,
+    "acceleration": "10.9s 0-100 km/u",
+    "weightKg": 1400
+  },
+  {
+    "id": "SPEC-004",
+    "engine": "Dual Motor",
+    "horsepower": 487,
+    "topSpeed": 200,
+    "acceleration": "4.5s 0-100 km/u",
+    "weightKg": 2200
+  },
+  {
+    "id": "SPEC-005",
+    "engine": "2.0L TFSI",
+    "horsepower": 190,
+    "topSpeed": 240,
+    "acceleration": "7.2s 0-100 km/u",
+    "weightKg": 1500
+  },
+  {
+    "id": "SPEC-006",
+    "engine": "Single/Dual Motor",
+    "horsepower": 480,
+    "topSpeed": 233,
+    "acceleration": "3.3s 0-100 km/u",
+    "weightKg": 1750
+  },
+  {
+    "id": "SPEC-007",
+    "engine": "2.5L Hybrid",
+    "horsepower": 218,
+    "topSpeed": 210,
+    "acceleration": "8.5s 0-100 km/u",
+    "weightKg": 1600
+  },
+  {
+    "id": "SPEC-008",
+    "engine": "3.0L Diesel",
+    "horsepower": 286,
+    "topSpeed": 230,
+    "acceleration": "6.1s 0-100 km/u",
+    "weightKg": 2100
+  },
+  {
+    "id": "SPEC-009",
+    "engine": "3.0L TDI",
+    "horsepower": 286,
+    "topSpeed": 241,
+    "acceleration": "6.3s 0-100 km/u",
+    "weightKg": 2195
+  },
+  {
+    "id": "SPEC-010",
+    "engine": "Dual Motor",
+    "horsepower": 563,
+    "topSpeed": 180,
+    "acceleration": "4.5s 0-100 km/u",
+    "weightKg": 2900
+  }
+]
