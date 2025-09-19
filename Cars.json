@@ -6,7 +6,7 @@
     "price": 89990,
     "isAvailable": true,
     "releaseDate": "2021-03-01",
-    "imageUrl": "tesla-model-s-1.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/tesla-model-s-1.jpeg",
     "fuelType": "Electric",
     "categories": ["Sedan", "Luxury", "EV"],
     "specifications": {
@@ -22,7 +22,7 @@
     "price": 55900,
     "isAvailable": true,
     "releaseDate": "2022-05-15",
-    "imageUrl": "i4-1.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/i4-1.jpeg",
     "fuelType": "Electric",
     "categories": ["Sedan", "Sport", "EV"],
     "specifications": {
@@ -38,7 +38,7 @@
     "price": 25000,
     "isAvailable": true,
     "releaseDate": "2020-09-10",
-    "imageUrl": "toyota-corolla-gr-sport-2.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/toyota-corolla-gr-sport-2.jpeg",
     "fuelType": "Hybrid",
     "categories": ["Compact", "Hybrid"],
     "specifications": {
@@ -54,7 +54,7 @@
     "price": 61900,
     "isAvailable": false,
     "releaseDate": "2021-11-20",
-    "imageUrl": "Mustang.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/Mustang.jpeg",
     "fuelType": "Electric",
     "categories": ["SUV", "EV", "Performance"],
     "specifications": {
@@ -70,7 +70,7 @@
     "price": 41900,
     "isAvailable": true,
     "releaseDate": "2019-07-25",
-    "imageUrl": "audi--a4.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/audi--a4.jpeg",
     "fuelType": "Petrol",
     "categories": ["Sedan", "Luxury"],
     "specifications": {
@@ -86,7 +86,7 @@
     "price": 42990,
     "isAvailable": true,
     "releaseDate": "2021-02-18",
-    "imageUrl": "tesla--model-3--2024.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/tesla--model-3--2024.jpeg",
     "fuelType": "Electric",
     "categories": ["Sedan", "EV"],
     "specifications": {
@@ -102,7 +102,7 @@
     "price": 31000,
     "isAvailable": false,
     "releaseDate": "2018-05-11",
-    "imageUrl": "toyota-camry.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/toyota-camry.jpeg",
     "fuelType": "Hybrid",
     "categories": ["Sedan", "Family"],
     "specifications": {
@@ -118,7 +118,7 @@
     "price": 65900,
     "isAvailable": true,
     "releaseDate": "2020-01-21",
-    "imageUrl": "X5.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/X5.jpeg",
     "fuelType": "Diesel",
     "categories": ["SUV", "Luxury"],
     "specifications": {
@@ -134,7 +134,7 @@
     "price": 72900,
     "isAvailable": true,
     "releaseDate": "2021-04-14",
-    "imageUrl": "2024-audi-q7.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/2024-audi-q7.jpg",
     "fuelType": "Diesel",
     "categories": ["SUV", "Luxury"],
     "specifications": {
@@ -150,7 +150,7 @@
     "price": 39974,
     "isAvailable": true,
     "releaseDate": "2022-06-10",
-    "imageUrl": "ford-f-150_lightning.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/ford-f-150_lightning.jpeg",
     "fuelType": "Electric",
     "categories": ["Pickup", "EV", "Utility"],
     "specifications": {
@@ -160,3 +160,4 @@
     }
   }
 ]
+
