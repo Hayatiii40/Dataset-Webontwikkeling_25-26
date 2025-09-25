@@ -42,7 +42,7 @@
     "topSpeed": 240,
     "acceleration": "7.2s 0-100 km/u",
     "weightKg": 1500,
-    "imageUrl": "Audi_Brand-logo"
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/Audi_Brand-Logo.jpg"
   },
   {
     "id": "SPEC-006",
@@ -78,7 +78,7 @@
     "topSpeed": 241,
     "acceleration": "6.3s 0-100 km/u",
     "weightKg": 2195,
-    "imageUrl": "Audi_Brand-Logo"
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/Audi_Brand-Logo.jpg"
   },
   {
     "id": "SPEC-010",
@@ -91,4 +91,5 @@
     
   }
 ]
+
 
