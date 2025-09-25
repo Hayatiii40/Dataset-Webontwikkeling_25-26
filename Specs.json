@@ -33,7 +33,7 @@
     "topSpeed": 200,
     "acceleration": "4.5s 0-100 km/u",
     "weightKg": 2200,
-     "imageUrl": "Ford_Brand-Logo"
+     "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/Ford_Brand-logo.jpg"
   },
   {
     "id": "SPEC-005",
@@ -87,10 +87,11 @@
     "topSpeed": 180,
     "acceleration": "4.5s 0-100 km/u",
     "weightKg": 2900,
-     "imageUrl": "Ford_Brand-Logo"
+     "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/Ford_Brand-logo.jpg"
     
   }
 ]
+
 
 
 
