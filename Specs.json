@@ -24,7 +24,7 @@
     "topSpeed": 180,
     "acceleration": "10.9s 0-100 km/u",
     "weightKg": 1400,
-    "imageUrl": "Toyota_Brand-Logo"
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/Toyota_Brand-logo.png"
   },
   {
     "id": "SPEC-004",
@@ -60,7 +60,7 @@
     "topSpeed": 210,
     "acceleration": "8.5s 0-100 km/u",
     "weightKg": 1600,
-    "imageUrl": "Toyota_Brand-Logo"
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/Toyota_Brand-logo.png"
   },
   {
     "id": "SPEC-008",
@@ -91,6 +91,7 @@
     
   }
 ]
+
 
 
 
