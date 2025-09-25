@@ -10,9 +10,8 @@
     "fuelType": "Electric",
     "categories": ["Sedan", "Luxury", "EV"],
     "specifications": {
-      "id": "SPEC-001",
-      "engine": "Dual Motor",
-      "horsepower": 1020
+      "id": "SPEC-001"
+
     }
   },
   {
@@ -26,9 +25,7 @@
     "fuelType": "Electric",
     "categories": ["Sedan", "Sport", "EV"],
     "specifications": {
-      "id": "SPEC-002",
-      "engine": "Electric Motor",
-      "horsepower": 544
+      "id": "SPEC-002"
     }
   },
   {
@@ -42,9 +39,7 @@
     "fuelType": "Hybrid",
     "categories": ["Compact", "Hybrid"],
     "specifications": {
-      "id": "SPEC-003",
-      "engine": "1.8L Hybrid",
-      "horsepower": 122
+      "id": "SPEC-003"
     }
   },
   {
@@ -58,9 +53,7 @@
     "fuelType": "Electric",
     "categories": ["SUV", "EV", "Performance"],
     "specifications": {
-      "id": "SPEC-004",
-      "engine": "Dual Motor",
-      "horsepower": 487
+      "id": "SPEC-004"
     }
   },
   {
@@ -74,9 +67,7 @@
     "fuelType": "Petrol",
     "categories": ["Sedan", "Luxury"],
     "specifications": {
-      "id": "SPEC-005",
-      "engine": "2.0L TFSI",
-      "horsepower": 190
+      "id": "SPEC-005"
     }
   },
   {
@@ -90,9 +81,7 @@
     "fuelType": "Electric",
     "categories": ["Sedan", "EV"],
     "specifications": {
-      "id": "SPEC-006",
-      "engine": "Single/Dual Motor",
-      "horsepower": 480
+      "id": "SPEC-006"
     }
   },
   {
@@ -106,9 +95,7 @@
     "fuelType": "Hybrid",
     "categories": ["Sedan", "Family"],
     "specifications": {
-      "id": "SPEC-007",
-      "engine": "2.5L Hybrid",
-      "horsepower": 218
+      "id": "SPEC-007"
     }
   },
   {
@@ -122,9 +109,7 @@
     "fuelType": "Diesel",
     "categories": ["SUV", "Luxury"],
     "specifications": {
-      "id": "SPEC-008",
-      "engine": "3.0L Diesel",
-      "horsepower": 286
+      "id": "SPEC-008"
     }
   },
   {
@@ -138,9 +123,7 @@
     "fuelType": "Diesel",
     "categories": ["SUV", "Luxury"],
     "specifications": {
-      "id": "SPEC-009",
-      "engine": "3.0L TDI",
-      "horsepower": 286
+      "id": "SPEC-009"
     }
   },
   {
@@ -154,10 +137,9 @@
     "fuelType": "Electric",
     "categories": ["Pickup", "EV", "Utility"],
     "specifications": {
-      "id": "SPEC-010",
-      "engine": "Dual Motor",
-      "horsepower": 563
+      "id": "SPEC-010"
     }
   }
 ]
+
 
