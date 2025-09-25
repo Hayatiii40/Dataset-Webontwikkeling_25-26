@@ -6,7 +6,7 @@
     "topSpeed": 322,
     "acceleration": "2.1s 0-100 km/u",
     "weightKg": 2162,
-    "imageUrl": "Tesla_Brand-logo"
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/Tesla_Brand_Logo.jpg"
   },
   {
     "id": "SPEC-002",
@@ -51,7 +51,7 @@
     "topSpeed": 233,
     "acceleration": "3.3s 0-100 km/u",
     "weightKg": 1750,
-    "imageUrl": "Tesla_Brand-Logo"
+    "imageUrl": "https://raw.githubusercontent.com/Hayatiii40/Dataset-Webontwikkeling_25-26/refs/heads/main/Images/Tesla_Brand_Logo.jpg"
   },
   {
     "id": "SPEC-007",
@@ -91,6 +91,7 @@
     
   }
 ]
+
 
 
 
