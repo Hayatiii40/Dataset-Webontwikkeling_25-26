@@ -5,7 +5,8 @@
     "horsepower": 1020,
     "topSpeed": 322,
     "acceleration": "2.1s 0-100 km/u",
-    "weightKg": 2162
+    "weightKg": 2162,
+    "imageUrl": "Tesla_Brand-logo"
   },
   {
     "id": "SPEC-002",
@@ -13,7 +14,8 @@
     "horsepower": 544,
     "topSpeed": 225,
     "acceleration": "3.9s 0-100 km/u",
-    "weightKg": 2290
+    "weightKg": 2290,
+    "imageUrl": "BMW-Brand_Logo"
   },
   {
     "id": "SPEC-003",
@@ -21,7 +23,8 @@
     "horsepower": 122,
     "topSpeed": 180,
     "acceleration": "10.9s 0-100 km/u",
-    "weightKg": 1400
+    "weightKg": 1400,
+    "imageUrl": "Toyota_Brand-Logo"
   },
   {
     "id": "SPEC-004",
@@ -29,7 +32,8 @@
     "horsepower": 487,
     "topSpeed": 200,
     "acceleration": "4.5s 0-100 km/u",
-    "weightKg": 2200
+    "weightKg": 2200,
+     "imageUrl": "Ford_Brand-Logo"
   },
   {
     "id": "SPEC-005",
@@ -37,7 +41,8 @@
     "horsepower": 190,
     "topSpeed": 240,
     "acceleration": "7.2s 0-100 km/u",
-    "weightKg": 1500
+    "weightKg": 1500,
+    "imageUrl": "Audi_Brand-logo"
   },
   {
     "id": "SPEC-006",
@@ -45,7 +50,8 @@
     "horsepower": 480,
     "topSpeed": 233,
     "acceleration": "3.3s 0-100 km/u",
-    "weightKg": 1750
+    "weightKg": 1750,
+    "imageUrl": "Tesla_Brand-Logo"
   },
   {
     "id": "SPEC-007",
@@ -53,7 +59,8 @@
     "horsepower": 218,
     "topSpeed": 210,
     "acceleration": "8.5s 0-100 km/u",
-    "weightKg": 1600
+    "weightKg": 1600,
+    "imageUrl": "Toyota_Brand-Logo"
   },
   {
     "id": "SPEC-008",
@@ -61,7 +68,8 @@
     "horsepower": 286,
     "topSpeed": 230,
     "acceleration": "6.1s 0-100 km/u",
-    "weightKg": 2100
+    "weightKg": 2100,
+    "imageUrl": "BMW-Brand_Logo"
   },
   {
     "id": "SPEC-009",
@@ -69,7 +77,8 @@
     "horsepower": 286,
     "topSpeed": 241,
     "acceleration": "6.3s 0-100 km/u",
-    "weightKg": 2195
+    "weightKg": 2195,
+    "imageUrl": "Audi_Brand-Logo"
   },
   {
     "id": "SPEC-010",
@@ -77,6 +86,9 @@
     "horsepower": 563,
     "topSpeed": 180,
     "acceleration": "4.5s 0-100 km/u",
-    "weightKg": 2900
+    "weightKg": 2900,
+     "imageUrl": "Ford_Brand-Logo"
+    
   }
 ]
+
